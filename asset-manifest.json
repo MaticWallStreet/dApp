@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8e0a509d.chunk.css",
+    "main.js": "/static/js/main.9c395b3d.chunk.js",
+    "main.js.map": "/static/js/main.9c395b3d.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3dd951e0.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3dd951e0.js.map",
+    "static/js/2.2db51f67.chunk.js": "/static/js/2.2db51f67.chunk.js",
+    "static/js/2.2db51f67.chunk.js.map": "/static/js/2.2db51f67.chunk.js.map",
+    "static/js/3.2f9823e6.chunk.js": "/static/js/3.2f9823e6.chunk.js",
+    "static/js/3.2f9823e6.chunk.js.map": "/static/js/3.2f9823e6.chunk.js.map",
+    "static/js/4.273808be.chunk.js": "/static/js/4.273808be.chunk.js",
+    "static/js/4.273808be.chunk.js.map": "/static/js/4.273808be.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8e0a509d.chunk.css.map": "/static/css/main.8e0a509d.chunk.css.map",
+    "static/js/2.2db51f67.chunk.js.LICENSE.txt": "/static/js/2.2db51f67.chunk.js.LICENSE.txt",
+    "static/media/binance.c019f67a.svg": "/static/media/binance.c019f67a.svg",
+    "static/media/ethereum.b1488aa3.svg": "/static/media/ethereum.b1488aa3.svg",
+    "static/media/logo.0392ab5a.png": "/static/media/logo.0392ab5a.png",
+    "static/media/metamask.426833f1.svg": "/static/media/metamask.426833f1.svg",
+    "static/media/wallet-connect.986542a2.svg": "/static/media/wallet-connect.986542a2.svg",
+    "static/media/whitePaper.6ae9c0e7.pdf": "/static/media/whitePaper.6ae9c0e7.pdf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3dd951e0.js",
+    "static/js/2.2db51f67.chunk.js",
+    "static/css/main.8e0a509d.chunk.css",
+    "static/js/main.9c395b3d.chunk.js"
+  ]
+}
